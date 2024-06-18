@@ -7,6 +7,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheeseburgertony&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![cheeseburgertony's GitHub | Stats](https://stats.quira.sh/cheeseburgertony/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=cheeseburgertony)
+
 <!--
 **cheeseburgertony/cheeseburgertony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
