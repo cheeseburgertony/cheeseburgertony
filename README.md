@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I'm Tony! 👋
+
+- 🌱 I’m currently learning Vue, React, Uniapp, and everything I am interested in and enjoy.
+- 📫 How to reach me: 1821955020@qq.com
+- 🍔 My Blog: [cheeseburgertony](https://cheeseburgertony.github.io/)
+- 🤓🦢🐉🐔🦄🐼🐨🚀⚡🌞🍎🛸
 
 <!--
 **cheeseburgertony/cheeseburgertony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
