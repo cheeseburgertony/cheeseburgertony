@@ -1,6 +1,6 @@
 ## Hi I'm Tony! 👋
 
-- 🌱 I’m currently learning Vue, Uniapp, React, and everything I am interested in and enjoy.
+- 🌱 I’m currently learning Vue, Uniapp, React, and everything I am interested in and enjoy
 - 📫 How to reach me: 1821955020@qq.com
 - 🍔 My Blog: [cheeseburgertony](https://cheeseburgertony.github.io/)
 - 🤓🦢🐉🐔🦄🐼🐨🚀⚡🌞🍎🛸
