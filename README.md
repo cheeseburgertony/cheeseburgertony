@@ -10,10 +10,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheeseburgertony&hide_border=true&hide_title=true&count_private=true&show_icons=true&bg_color=71B8DD,5EAFDA,FFC2E1,FCD9B9)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeseburgertony&layout=compact&hide_border=true&bg_color=FFF1CD,FCD9B9,FFC2E1,5EAFDA)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://raw.githubusercontent.com/cheeseburgertony/cheeseburgertony/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -51,6 +47,10 @@
 <div align="center">
   <img height="200" src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/cheeseburgertony/cheeseburgertony/output/snake.svg" alt="Snake animation" />
 
 ###
 
