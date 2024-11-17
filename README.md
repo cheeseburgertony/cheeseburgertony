@@ -1,6 +1,6 @@
 ## Hi I'm Tony! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=26&pause=1000&vCenter=true&width=435&lines=A+front-end+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=26&pause=1000&repeat=false&width=435&lines=A+front-end+developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning Vue, Uniapp, React, and everything I am interested in and enjoy.
 - 📫 How to reach me: 1821955020@qq.com
