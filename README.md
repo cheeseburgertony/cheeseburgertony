@@ -19,13 +19,13 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 ### About Me
 
-<!--
+
 <div align="center" style="margin-top: -50px;">
   <a href="https://leostar.top/" align="right" >
-    <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="330.5px" height="205.5px" style="margin-left: 10px;">
+    <img src="https://media.giphy.com/media/cx68jjgHOB9Nws7qes/giphy.gif?cid=790b7611h023wrfx5lk6qvvdqbx1gpe0vq98xv0iljok9i7s&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="330.5px" height="205.5px" style="margin-left: 10px;">
   </a>
 </div>
--->
+
 <div>
   <li>
    <b>🐼 Name:</b> Tony
