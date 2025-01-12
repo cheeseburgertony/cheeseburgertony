@@ -22,7 +22,10 @@
 
 <div align="center" style="margin-top: -50px;">
   <a href="https://leostar.top/" align="right" >
+    <!--
     <img src="https://media.giphy.com/media/cx68jjgHOB9Nws7qes/giphy.gif?cid=790b7611h023wrfx5lk6qvvdqbx1gpe0vq98xv0iljok9i7s&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="330.5px" height="205.5px" style="margin-left: 10px;">
+    -->
+    <img src="https://media.giphy.com/media/dGuG7iu51KkGWikYDp/giphy.gif?cid=ecf05e47bwpv8fqytrh4cg08ms5r50vvahsq7a3jbsjr3iue&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="330.5px" height="205.5px" style="margin-left: 10px;">
   </a>
 </div>
 
