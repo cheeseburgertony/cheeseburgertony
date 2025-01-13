@@ -34,7 +34,7 @@
    <b>🐼 Name:</b> Tony
   </li>
   <li>
-    <b>👯 Gender:</b> Male👨🏻
+    <b>👯 Gender:</b> Male👱‍♂️
   </li>
   <li>
     <b>🍔 My Blog:</b> https://www.cheeseburgertony.cn
