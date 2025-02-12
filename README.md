@@ -81,6 +81,7 @@
   <code><img height="40" src="https://api.iconify.design/devicon:webpack.svg" alt="webpack"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/devicon:vitejs.svg" alt="vite"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/devicon:rollup.svg" alt="rollup"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:git.svg" alt="git"></code>&nbsp;
 </div>
 
 <div style="margin: 2px;"/>
@@ -90,9 +91,10 @@
   <code><img height="40" src="https://api.iconify.design/skill-icons:less-dark.svg" alt="less"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/devicon:express.svg" alt="express"></code>&nbsp;
   <code><img height="40" width="40" src="https://api.iconify.design/logos:koa.svg" alt="koa"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:nuxtjs.svg" alt="nuxt"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:nextjs.svg" alt="next"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/devicon:storybook.svg" alt="storybook"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/devicon:markdown.svg" alt="markdown"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:git.svg" alt="git"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/devicon:vscode.svg" alt="vscode"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/skill-icons:github-dark.svg"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/skill-icons:vercel-dark.svg" alt="vercel"></code>&nbsp;
