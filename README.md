@@ -96,11 +96,11 @@
   <code><img height="40" src="https://api.iconify.design/devicon:vscode.svg" alt="vscode"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/skill-icons:github-dark.svg"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/skill-icons:vercel-dark.svg" alt="vercel"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:nuxtjs.svg" alt="nuxt"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:nextjs.svg" alt="next"></code>&nbsp;
 </div>
 
 <!--
-  <code><img height="40" src="https://api.iconify.design/devicon:nuxtjs.svg" alt="nuxt"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:nextjs.svg" alt="next"></code>&nbsp;
 -->
 
 ###
