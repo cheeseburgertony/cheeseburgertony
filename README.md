@@ -38,7 +38,7 @@
     <b>🍔 My Blog:</b> https://www.cheeseburgertony.top
   </li>
   <li>
-    <b>😘 Hobbies:</b> basketball⛹️,music🎵,code💻
+    <b>😘 Hobbies:</b> basketball⛹️, music🎵, code💻
   </li>
   <li>
     <b>💬 Motto:</b> Whatever it takes.
