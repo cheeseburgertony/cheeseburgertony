@@ -30,18 +30,15 @@
   </a>
 </div>
 
-<div>
+<ul>
   <li>
    <b>🐼 Name:</b> Tony
-  </li>
-  <li>
-    <b>👯 Gender:</b> Male👱‍♂️
   </li>
   <li>
     <b>🍔 My Blog:</b> https://www.cheeseburgertony.top
   </li>
   <li>
-    <b>😘 Hobbys:</b> basketball⛹️,music🎵,code💻
+    <b>😘 Hobbies:</b> basketball⛹️,music🎵,code💻
   </li>
   <li>
     <b>💬 Motto:</b> Whatever it takes.
@@ -52,7 +49,7 @@
   <li>
     <b>😛 Emoji:</b> 🤓🦢🐉🐔🦄🐼🐨🚀⚡🌞🍎🛸
   </li>
-</div>
+</ul>
 
 #### GitHub status
 
