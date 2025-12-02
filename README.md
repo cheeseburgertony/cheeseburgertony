@@ -68,31 +68,31 @@
 ### 🛠 Focus on the technology stack
 
 <div align="center">
-  <code><img height="40" src="https://api.iconify.design/devicon:html5.svg" alt="html"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:css3.svg" alt="css"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:javascript.svg" alt="js"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:typescript.svg" alt="ts"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:nodejs.svg" alt="node"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:vuejs.svg" alt="vue"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:react.svg" alt="react"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:webpack.svg" alt="webpack"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:vitejs.svg" alt="vite"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:rollup.svg" alt="rollup"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:html5.svg" alt="html"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:css3.svg" alt="css"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:javascript.svg" alt="js"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:typescript.svg" alt="ts"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:nodejs.svg" alt="node"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:vuejs.svg" alt="vue"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:react.svg" alt="react"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:webpack.svg" alt="webpack"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:vitejs.svg" alt="vite"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:rollup.svg" alt="rollup"></code>&nbsp;
 </div>
 
 <div style="margin: 2px;"/>
 
 <div align="center">
-  <code><img height="40" src="https://api.iconify.design/devicon:sass.svg" alt="sass"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/skill-icons:less-dark.svg" alt="less"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:express.svg" alt="express"></code>&nbsp;
-  <code><img height="40" width="40" src="https://api.iconify.design/logos:koa.svg" alt="koa"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:storybook.svg" alt="storybook"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:markdown.svg" alt="markdown"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:git.svg" alt="git"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/devicon:vscode.svg" alt="vscode"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/skill-icons:github-dark.svg"></code>&nbsp;
-  <code><img height="40" src="https://api.iconify.design/skill-icons:vercel-dark.svg" alt="vercel"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:sass.svg" alt="sass"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/skill-icons:less-dark.svg" alt="less"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:express.svg" alt="express"></code>&nbsp;
+  <code><img width="40" height="40" width="40" src="https://api.iconify.design/logos:koa.svg" alt="koa"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:storybook.svg" alt="storybook"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:markdown.svg" alt="markdown"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:git.svg" alt="git"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/devicon:vscode.svg" alt="vscode"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/skill-icons:github-dark.svg"></code>&nbsp;
+  <code><img width="40" height="40" src="https://api.iconify.design/skill-icons:vercel-dark.svg" alt="vercel"></code>&nbsp;
 </div>
 
 <!--
