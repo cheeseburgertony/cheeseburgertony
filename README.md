@@ -56,10 +56,13 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheeseburgertony&hide_border=true&hide_title=true&count_private=true&show_icons=true&bg_color=71B8DD,5EAFDA,FFC2E1,FCD9B9)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeseburgertony&layout=compact&hide_border=true&bg_color=FFF1CD,FCD9B9,FFC2E1,5EAFDA)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/
+http://github-readme-stats-beige-beta-11.vercel.app/
+https://github-readme-stats-rouge-pi.vercel.app/
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheeseburgertony&hide_border=true&hide_title=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheeseburgertony&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](http://github-readme-stats-beige-beta-11.vercel.app/api?username=cheeseburgertony&hide_border=true&hide_title=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](http://github-readme-stats-beige-beta-11.vercel.app/api/top-langs/?username=cheeseburgertony&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎯 Progress
 
