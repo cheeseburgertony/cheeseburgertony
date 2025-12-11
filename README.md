@@ -10,9 +10,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h2>
 <a href="https://github.com/cheeseburgertony">
-  <div align="right" >
-    <img align="right" src="https://count.getloli.com/get/@:cheeseburgertony?theme=3d-num" alt="cheeseburgertony" style="margin-top: 60px;"/>
-  </div>
+  <img align="right" src="https://count.getloli.com/get/@:cheeseburgertony?theme=3d-num" alt="cheeseburgertony" style="float:right; margin-top:60px;"/>
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=26&pause=1000&repeat=false&vCenter=true&width=435&lines=A+front-end+developer)](https://git.io/typing-svg)
